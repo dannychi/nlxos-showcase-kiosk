@@ -1,0 +1,21 @@
+{
+  "name": "nlxos-showcase-kiosk",
+  "version": "1.0.1",
+  "description": "NALINV's Showcase Kiosk",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "linux": {
+      "target": ["dir"]
+    }
+  },
+  "author": "d.chi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.13",
+    "electron-builder": "^20.38.4"
+  }
+}

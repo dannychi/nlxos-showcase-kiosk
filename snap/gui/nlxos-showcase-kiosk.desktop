@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=NALINV Showcase
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Application;Network;
+Exec=nlxos-showcase-kiosk
+Terminal=false
