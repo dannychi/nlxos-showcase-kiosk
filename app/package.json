@@ -1,6 +1,6 @@
 {
   "name": "nlxos-showcase-kiosk",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "NALINV's Showcase Kiosk",
   "main": "main.js",
   "scripts": {
